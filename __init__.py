@@ -9,5 +9,5 @@ if sum == int(input_number):
     print("Number is Armstrong Number")
 else:
     print("Number is not Armstrong number")
-
+print("done")
 
